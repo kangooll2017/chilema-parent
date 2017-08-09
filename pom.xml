@@ -8,7 +8,7 @@
 
 	<!-- 父工程中来做依赖管理 -->
 	<properties>
-		<!-- 公共依赖jar -->
+		<!-- 公共依赖jar包 -->
 		<commons-io.version>2.5</commons-io.version>
 		<commons-lang3.version>3.6</commons-lang3.version>
 		<commons-codec.version>1.10</commons-codec.version>
